@@ -1,0 +1,20 @@
+this mod allows the player to purchase, any weaponized vehicle, any MK2 weapon, or a bunch of other things all can be purchased straight from Agent 14, at Trevor's Airfield 
+look for the blue Ammunation gun on the map, should be next to Trevor's Airfield, when your are there (if Agent 14  doesnt spawn please pres INS to reload mods), walk up to Agent 14 and press G to open the menu
+
+MK2 Attachments will be added in a future update
+please note that when purchasing a vehicle, it  spawns 25m from whatever direction the player is facing!
+and yes i know the dll file says MilitaryTrailer.dll, its supposed to be MillitaryTrader.dll, a small bug on my behalf
+
+to install drag into scrips folder
+
+Recomended mods, because the vehicle options are only to purchase not SAVE 
+
+SinglePlayerApartments: https://www.gta5-mods.com/scripts/single-player-apartment-spg-net
+
+SinglePlayerGarages: https://www.gta5-mods.com/scripts/single-player-garage
+
+Facilities in SP: https://www.gta5-mods.com/misc/facility-in-sp-spg
+
+Bunkers in SP:  NOT YET RELEASED 
+
+or any of my business mods
